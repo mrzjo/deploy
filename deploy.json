@@ -1,0 +1,7 @@
+{
+    "REPO_URL":"https://github.com/mrzjo/deploy",
+    "PROJECT_NAME":"deploy",
+    "REMOTE_HOST":"ec2-18-220-223-73.us-east-2.compute.amazonaws.com",
+    "REMOTE_HOST_SSH":"18.220.223.73",
+    "REMOTE_USER":"ubuntu"
+}
